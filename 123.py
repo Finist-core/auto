@@ -1,1 +1,2 @@
-a = ("test_text")
+a=( "test_text" )
+print( a)
